@@ -12,8 +12,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/swati-srivastava-201b961a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swati-srivastava-201b961a3/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swatisrivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swatisrivastava" height="30" width="40" /></a>
-<a href="srivastavaswati1611@gmail.com" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgadgets360.com%2Fapps%2Fnews%2Fgmail-calling-feature-update-google-meet-group-video-call-voip-companion-mode-series-one-desk-27-board-65-launch-workspace-2534962&psig=AOvVaw0QEgZBcV2-SvmXRWBJUOF-&ust=1646158766275000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKikhrqBo_YCFQAAAAAdAAAAABAD" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/swatisrivastava" target="blank"><img align="center" src="b.png" height="30" width="40" /></a>
+<a href="srivastavaswati1611@gmail.com" target="blank"><img align="center" src="a.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
