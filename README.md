@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning and exploring various domains
 
-- 👯 I’m looking to collaborate on **Web Dev Projects**
+- 👯 I’m looking to collaborate on Web Dev Projects
 
-- 💬 Ask me about **Web Dev**
+- 💬 Ask me about Web Dev
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
